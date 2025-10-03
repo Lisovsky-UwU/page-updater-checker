@@ -1,0 +1,11 @@
+[project]
+name = "page-updater-checker"
+version = "0.1.0"
+description = "Simple page parser and notifier in TG for updetes"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "pytelegrambotapi>=4.29.1",
+    "pyyaml>=6.0.3",
+]

@@ -1,0 +1,5 @@
+venv/
+page_cache.txt
+page_updater_checker.yaml
+logs/
+.vscode/
